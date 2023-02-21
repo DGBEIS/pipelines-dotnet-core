@@ -1,6 +1,6 @@
 [![Build Status](https://dev.azure.com/BEISDavid/Training/_apis/build/status/DGBEIS.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/BEISDavid/Training/_build/latest?definitionId=33&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
-
+Author David Gurney
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
 
